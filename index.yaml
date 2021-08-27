@@ -6,10 +6,10 @@ entries:
     created: "2021-08-27T09:49:02.93039544+01:00"
     dependencies:
     - name: pages-api
-      repository: http://localhost:8080
+      repository: https://buckll64.github.io/
       version: 1.x.x
     - name: mysql
-      repository: http://localhost:8080
+      repository: https://buckll64.github.io/
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: aa804561ca65eaf10744b3101b3aa5b2b6f7d65977170c2a9286203d0a6ef431
